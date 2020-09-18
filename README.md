@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Rohit prasad 😊, a programmer 💻 from India. I'm a Javascript developer . Currently, I'm working on React and React Native[https://reactjs.org/][https://reactnative.dev/]. Besides programming, I like travelling 🚞✈ and playing video games 🎧💻.
+Hi, I'm Rohit prasad 😊, a programmer 💻 from India. I'm a Front-End Web developer . Currently, I'm working on React and React Native[https://reactjs.org/][https://reactnative.dev/]. Besides programming, I like travelling 🚞✈ and playing video games 🎧💻.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
