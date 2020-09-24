@@ -13,7 +13,8 @@
 Hi, I'm Rohit prasad 😊, a programmer 💻 from India. I'm a Front-End Web developer . Currently, I'm working on React and React Native[https://reactjs.org/][https://reactnative.dev/]. Besides programming, I like travelling 🚞✈ and playing video games 🎧💻.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
+<br />
+<br />
 **Current Status Quo**
 
 - 👨🏻‍💻 I’m currently working on Responsive Web Design and Ionic .
@@ -24,6 +25,8 @@ Hi, I'm Rohit prasad 😊, a programmer 💻 from India. I'm a Front-End Web dev
 - 📫 Please email via rpchauhan4444@gmail.com to reach me.
 
 
+<br />
+<br />
 <br />
 <br />
 - Languages and Tools...
