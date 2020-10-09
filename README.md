@@ -15,7 +15,7 @@ Hi, I'm Rohit prasad 😊, a programmer 💻 from India. I'm a Front-End Web dev
   <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 <br />
 <br />
-**Current Status Quo**
+***Current Status Quo***
 
 - 👨🏻‍💻 I’m currently working on Responsive Web Design and Ionic .
 - 🌱 I’m currently learning React and Node.js .
